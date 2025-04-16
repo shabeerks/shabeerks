@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shabeerks
+- 👋 Hi, I’m @shabeer k s
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Reseach
+- 🌱 I’m currently learning Cyber Research
 - 💞️ I’m looking to collaborate on Cybersecurity Initiatives
 - 📫 How to reach me : https://www.linkedin.com/in/shabeer-k-s
 - 😄 Pronouns: shab
